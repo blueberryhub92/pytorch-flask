@@ -1,2 +1,2 @@
-PyTorch model using Flask & Heroku
+PyTorch model using Flask
 
